@@ -1,0 +1,12 @@
+com.example.todoapp-jetified-window-java-1.0.0-beta04-0 /Users/philliptruong/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.todoapp-core-1.6.0-1 /Users/philliptruong/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.todoapp-jetified-annotation-experimental-1.1.0-2 /Users/philliptruong/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.todoapp-jetified-window-1.0.0-beta04-3 /Users/philliptruong/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.todoapp-debug-4 /Users/philliptruong/AndroidStudioProjects/flutter/todoapp/android/app/src/debug/res
+com.example.todoapp-main-5 /Users/philliptruong/AndroidStudioProjects/flutter/todoapp/android/app/src/main/res
+com.example.todoapp-pngs-6 /Users/philliptruong/AndroidStudioProjects/flutter/todoapp/build/app/generated/res/pngs/debug
+com.example.todoapp-resValues-7 /Users/philliptruong/AndroidStudioProjects/flutter/todoapp/build/app/generated/res/resValues/debug
+com.example.todoapp-rs-8 /Users/philliptruong/AndroidStudioProjects/flutter/todoapp/build/app/generated/res/rs/debug
+com.example.todoapp-mergeDebugResources-9 /Users/philliptruong/AndroidStudioProjects/flutter/todoapp/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.todoapp-mergeDebugResources-10 /Users/philliptruong/AndroidStudioProjects/flutter/todoapp/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.todoapp-merged_res-11 /Users/philliptruong/AndroidStudioProjects/flutter/todoapp/build/app/intermediates/merged_res/debug
